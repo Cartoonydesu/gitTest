@@ -15,11 +15,11 @@ public class GitTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello Na Jaaaaa");/*
+        System.out.println("Hello Na Jaaaaa");
         System.out.println("Hello Ik Teeee");
         System.out.println("haloooooo");
         System.out.println("alohaaaaaa");
-        System.out.println("NI HAOOOOOOOOO");*/
+        System.out.println("NI HAOOOOOOOOO");
     }
     
 }
